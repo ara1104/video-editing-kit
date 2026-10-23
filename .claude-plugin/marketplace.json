@@ -1,0 +1,12 @@
+{
+  "name": "video-editing-kit",
+  "owner": { "name": "ONIKOSIOLA", "url": "https://github.com/ONIKOSIOLA" },
+  "description": "A starter kit for editing videos for social media with Claude Code.",
+  "plugins": [
+    {
+      "name": "video-editing-kit",
+      "source": "./",
+      "description": "Turn raw footage into finished social-media videos. Run the setup skill first."
+    }
+  ]
+}

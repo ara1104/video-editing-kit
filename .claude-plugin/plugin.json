@@ -1,0 +1,9 @@
+{
+  "name": "video-editing-kit",
+  "description": "Turn raw phone or camera footage into finished social-media videos: clean cuts, captions, color, word-synced motion graphics, and vertical exports.",
+  "version": "1.0.0",
+  "author": { "name": "ONIKOSIOLA", "url": "https://github.com/ONIKOSIOLA" },
+  "homepage": "https://github.com/ONIKOSIOLA/video-editing-kit",
+  "repository": "https://github.com/ONIKOSIOLA/video-editing-kit",
+  "keywords": ["video", "editing", "social media", "reels", "tiktok", "captions", "premiere"]
+}
